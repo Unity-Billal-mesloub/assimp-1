@@ -5,7 +5,7 @@
 [![Release](https://jitpack.io/v/kotlin-graphics/assimp.svg)](https://jitpack.io/#kotlin-graphics/assimp) 
 ![Size](https://github-size-badge.herokuapp.com/kotlin-graphics/assimp.svg)
 [![Github All Releases](https://img.shields.io/github/downloads/kotlin-graphics/assimp/total.svg)]()
-[![Awesome Kotlin Badge](https://kotlin.link/awesome-kotlin.svg)](https://github.com/KotlinBy/awesome-kotlin) 
+[![Awesome Kotlin Badge](https://kotlin.link/awesome-kotlin.svg)](https://github.com/Unity-Billal-mesloub/awesome-kotlin) 
 
 JVM porting of [Assimp](https://github.com/Unity-Billal-mesloub/assimp-1)
 
